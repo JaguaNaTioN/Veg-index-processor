@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+*.tif
+*.csv
+data/output/*
+logs/

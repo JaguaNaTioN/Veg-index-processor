@@ -1,0 +1,13 @@
+rasterio
+
+numpy
+
+matplotlib
+
+jupyter
+
+earthpy
+
+geopandas
+
+tqdm
