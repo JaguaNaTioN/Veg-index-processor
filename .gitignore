@@ -4,3 +4,25 @@ __pycache__/
 *.csv
 data/output/*
 logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual Environments
+myworld/
+env/
+.venv/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Others
+*.tiff
+*.csv
